@@ -1,4 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Najmeh Nasri!
+I am a Computer Engineering student and a passionate software development enthusiast. Currently, I am focusing on deepening my knowledge in Python, Full-Stack Web Development, and improving my English language skills.
+🛠️ My Skills
+Technologies & Languages: Python, HTML, CSS, JavaScript (Web Development)
+Tools: Git & GitHub, V2Ray
+Languages: Persian (Native), English (Learning)
+🚀 Current Projects
+☕ Coffee Shop Website: Developing a complete e-commerce coffee website (working on both Frontend and Backend).
+🧮 Scientific Calculator: Building a calculator application in Python using the Matplotlib library.
+📫 Get in touch:
+Email: najmehnasr50@gmail.com
 
 <!--
 **najmehnasri/najmehnasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
